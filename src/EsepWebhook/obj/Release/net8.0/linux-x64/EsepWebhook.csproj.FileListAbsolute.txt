@@ -15,3 +15,6 @@ C:\Users\abrah\EsepWebhook\src\EsepWebhook\obj\Release\net8.0\linux-x64\refint\E
 C:\Users\abrah\EsepWebhook\src\EsepWebhook\obj\Release\net8.0\linux-x64\EsepWebhook.pdb
 C:\Users\abrah\EsepWebhook\src\EsepWebhook\obj\Release\net8.0\linux-x64\EsepWebhook.genruntimeconfig.cache
 C:\Users\abrah\EsepWebhook\src\EsepWebhook\obj\Release\net8.0\linux-x64\ref\EsepWebhook.dll
+C:\Users\abrah\EsepWebhook\src\EsepWebhook\bin\Release\net8.0\linux-x64\Amazon.Lambda.APIGatewayEvents.dll
+C:\Users\abrah\EsepWebhook\src\EsepWebhook\bin\Release\net8.0\linux-x64\Newtonsoft.Json.dll
+C:\Users\abrah\EsepWebhook\src\EsepWebhook\obj\Release\net8.0\linux-x64\EsepWebhook.sourcelink.json
